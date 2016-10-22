@@ -38,7 +38,7 @@ Table: Leadership
 4. endDate
 5. Brief Description
 
-Table: Community Server
+Table: Community Service
 
 1. id
 2. title
